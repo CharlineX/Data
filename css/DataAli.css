@@ -1,0 +1,90 @@
+.main {
+  width: 100%;
+}
+.main .m-con {
+  width: 1190px;
+  height: 500px;
+  margin: 0 auto;
+  background-color: #212e48;
+}
+.main .m-con .header {
+  height: 90px;
+  background-color: #345391;
+}
+.main .m-con .header .logo {
+  float: left;
+  width: 150px;
+  height: 65px;
+  margin-right: 70px;
+  background: url("../img/ali.png") no-repeat center 12px;
+}
+.main .m-con .header ul {
+  display: block;
+}
+.main .m-con .header ul li {
+  float: left;
+  margin: 0 18px;
+}
+.main .m-con .header ul li a {
+  line-height: 90px;
+  font-size: 16px;
+  color: #fff;
+}
+.main .m-con .header .user {
+  float: right;
+}
+.main .m-con .header .user .nav-item {
+  margin: 0 18px;
+  display: inline-block;
+}
+.main .m-con .header .user .nav-item a {
+  line-height: 90px;
+  font-size: 14px;
+  color: #fff;
+}
+h2 {
+  text-align: center;
+  font-size: 36px;
+}
+.newer {
+  width: 100%;
+}
+.newer .new-con {
+  width: 1190px;
+  height: 700px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+.newer .new-con .free {
+  float: left;
+}
+.newer .new-con .free h3 {
+  font-size: 24px;
+}
+.newer .new-con .more {
+  float: right;
+}
+.newer .new-con .more h3 {
+  font-size: 24px;
+}
+.solution {
+  width: 100%;
+  background-color: #345391;
+}
+.solution .layout {
+  height: 566px;
+}
+.solution .layout h2 {
+  padding-top: 55px;
+}
+.visual {
+  width: 100%;
+  background-color: #fff;
+}
+.visual .layout {
+  height: 586px;
+}
+.layout {
+  width: 1190px;
+  margin: 0 auto;
+}
